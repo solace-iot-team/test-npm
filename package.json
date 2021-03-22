@@ -1,0 +1,17 @@
+{
+  "name": "test-npm",
+  "version": "0.1.0",
+  "description": "description of test-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "key-word-1",
+    "key-word-2",
+    "key-word-3",
+    "key-word-4"
+  ],
+  "author": "author",
+  "license": "MIT"
+}
